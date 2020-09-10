@@ -1,10 +1,11 @@
 ### Ameer Shah
-[![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Isha_1321)](https://twitter.com/Isha_1321)  [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/ishagupta20/) [![Gmail Badge](https://img.shields.io/badge/-ishagupta2103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:ishagupta2103@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ameershah48)](https://twitter.com/Isha_1321)  
+[![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ameershah48//)](https://www.linkedin.com/in/ameershah48/) 
+[![Gmail Badge](https://img.shields.io/badge/-contact@ameershah48.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@ameershah48.com)](mailto:contact@ameershah48.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Full-Stack Development :zap:
--  **Stack Technology :** TALL
+-  **Learning :** Tall Stack Development :zap:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
