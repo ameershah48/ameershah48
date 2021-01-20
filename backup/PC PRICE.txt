@@ -1,0 +1,33 @@
+----------------------------------------------
+-> PC PART
+----------------------------------------------		
+CPU AMD Ryzen 5 2400G 		- RM579.00
+GPU AMD RX570 			- RM402.33
+RAM Hyper X RGB 8GB DDR4 x2 	- RM362.00
+SSD Kingston A400 120GB		- RM77.00
+HDD Seagate 1.5TB 		- RM203.00
+PSU 1stPlayer DK6 		- RM188.00
+MOBO Asrock A320M AM4 		- RM173.99
+Casing Tecware Nexus M 		- RM126.80
+Fan Cooling Segotep RGB 	- RM87.88
+Monitor Acer Nitro XV240P 	- RM649.00
+Monitor Acer V193HQV		- RM80.00
+Windows 10 key			- RM 3.99
+
+----------------------------------------------
+-> PERIPHERALS
+----------------------------------------------
+Mouse Razer Mamba TE		- RM150.00
+Keyboard Tecware Phantom RGB	- RM215.00
+Headphone Sades A6 		- RM112.65
+Microphone BM800 		- RM65.00
+Mousepad Steelseries QCK	- RM50.00
+
+----------------------------------------------
+-> SUMMARIZE			
+----------------------------------------------
+PC PART				- RM2,852.99
+PERIPHERALS			- RM592.65
+----------------------------------------------
+TOTAL				- RM3,445.64
+----------------------------------------------
