@@ -1,29 +1,3 @@
-<<<<<<< HEAD
-# ameershah48
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
 ### Ameer Shah
 [![Twitter Badge](https://img.shields.io/badge/-ameershah48-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ameershah48)](https://twitter.com/ameershah48) [![Linkedin Badge](https://img.shields.io/badge/-ameershah48-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ameershah48//)](https://www.linkedin.com/in/ameershah48/) [![Gmail Badge](https://img.shields.io/badge/-contact@ameershah48.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@ameershah48.com)](mailto:contact@ameershah48.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -38,4 +12,3 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
->>>>>>> d1aed80bf17141f15c0244e31c53a1fe04d22f00
