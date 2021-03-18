@@ -48,7 +48,6 @@
                             <p class="text-left text-s ml-2 font-medium">
                               Contact
                             </p>
-                            
                           </div>
                       </div>
                   </div>
@@ -294,8 +293,8 @@ export default {
                 "img" : require('@/assets/projects/plussizebynajmar.png'),
                 "tags": [
                   {
-                    "name": "PHP",
-                    "color": "bg-php"
+                    "name": "Laravel",
+                    "color": "bg-laravel"
                     },
                     {
                     "name": "Bootstrap",
