@@ -258,7 +258,7 @@ export default {
                 ]
             },
             {
-                "name": "F&J Dashboard Management",
+                "name": "F&J Admin Dashboard",
                 "url" : "https://dashboard.fnjmultimedia.com/",
                 "img" : require('@/assets/projects/dashboard_fnjmultimedia.png'),
                 "tags": [
