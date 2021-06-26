@@ -15,7 +15,8 @@ module.exports = {
         'php': '#7377AD',
         'bootsrap': '#8613FB',
         'tailwindcss': '#06B6D4',
-        'shoppegram' : '#000444'
+        'shoppegram' : '#000444',
+        'livewire' : '#FB70A9'
       }
     }
   },

@@ -252,6 +252,10 @@ export default {
                     "color": "bg-laravel"
                     },
                     {
+                    "name": "Livewire",
+                    "color": "bg-livewire"
+                    },
+                    {
                     "name": "Tailwind CSS",
                     "color": "bg-tailwindcss"
                     },
