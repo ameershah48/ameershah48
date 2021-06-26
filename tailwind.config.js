@@ -14,7 +14,8 @@ module.exports = {
         'blogger': '#E86733',
         'php': '#7377AD',
         'bootsrap': '#8613FB',
-        'tailwindcss': '#06B6D4'
+        'tailwindcss': '#06B6D4',
+        'shoppegram' : '#000444'
       }
     }
   },

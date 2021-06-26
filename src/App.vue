@@ -149,18 +149,14 @@ export default {
     data() {
     return {
         projects: [
-             {
-                "name": "Tarawih An-Nur U12",
-                "url" : "https://tarawih.surauannuru12.com/",
-                "img" : require('@/assets/projects/tarawih_surauannur.png'),
+            {
+                "name": "Produk Cikman",
+                "url" : "https://cikman.my/",
+                "img" : require('@/assets/projects/cikman.png'),
                 "tags": [
                     {
-                    "name": "Laravel",
-                    "color": "bg-laravel"
-                    },
-                    {
-                    "name": "Bootstrap",
-                    "color": "bg-bootsrap"
+                    "name": "Shoppegram",
+                    "color": "bg-shoppegram"
                     },
                 ]
             },
@@ -176,7 +172,22 @@ export default {
                 ]
             },
             {
-                "name": "Solat Jumaat An-Nur U12",
+                "name": "Tarawih An-Nur U12",
+                "url" : "https://tarawih.surauannuru12.com/",
+                "img" : require('@/assets/projects/tarawih_surauannur.png'),
+                "tags": [
+                    {
+                    "name": "Laravel",
+                    "color": "bg-laravel"
+                    },
+                    {
+                    "name": "Bootstrap",
+                    "color": "bg-bootsrap"
+                    },
+                ]
+            },
+            {
+                "name": "Jumaat An-Nur U12",
                 "url" : "https://solatjumaat.surauannuru12.com/",
                 "img" : require('@/assets/projects/solatjumaat_surauannur.png'),
                 "tags": [
@@ -232,9 +243,9 @@ export default {
                 ]
             },
             {
-                "name": "F&J Invoice Management",
-                "url" : "https://dashboard.fnjmultimedia.com/",
-                "img" : require('@/assets/projects/dashboard_fnjmultimedia.png'),
+                "name": "F&J Feedback System",
+                "url" : "https://feedback.fnjmultimedia.com/",
+                "img" : require('@/assets/projects/feedback_fnjmultimedia.png'),
                 "tags": [
                     {
                     "name": "Laravel",
@@ -243,6 +254,21 @@ export default {
                     {
                     "name": "Tailwind CSS",
                     "color": "bg-tailwindcss"
+                    },
+                ]
+            },
+            {
+                "name": "F&J Dashboard Management",
+                "url" : "https://dashboard.fnjmultimedia.com/",
+                "img" : require('@/assets/projects/dashboard_fnjmultimedia.png'),
+                "tags": [
+                    {
+                    "name": "Laravel",
+                    "color": "bg-laravel"
+                    },
+                    {
+                    "name": "Bootstrap",
+                    "color": "bg-bootsrap"
                     },
                 ]
             },
