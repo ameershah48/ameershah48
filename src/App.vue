@@ -23,7 +23,7 @@
 
         <section class="bg-black mt-16 pattern">
             <div class="max-w-2xl px-6 text-center mx-auto">
-                <h2 class="text-3xl font-semibold text-gray-200">Hi, <span class="bg-indigo-600 text-white rounded px-1">I’m Ameer Shah</span>,<br>a Fullstack Developer.</h2>
+                <h2 class="text-3xl font-semibold text-gray-200">Hi, <span class="bg-indigo-600 text-white rounded px-1">I’m Ameer Shah</span>,<br>a Full Stack Web Developer.</h2>
 
                 <div class="flex items-end justify-center mt-16">
                     <img src="./assets/potrait.png" width="50%">
@@ -149,6 +149,21 @@ export default {
     data() {
     return {
         projects: [
+             {
+                "name": "Tarawih An-Nur U12",
+                "url" : "https://tarawih.surauannuru12.com/",
+                "img" : require('@/assets/projects/tarawih_surauannur.png'),
+                "tags": [
+                    {
+                    "name": "Laravel",
+                    "color": "bg-laravel"
+                    },
+                    {
+                    "name": "Bootstrap",
+                    "color": "bg-bootsrap"
+                    },
+                ]
+            },
             {
                 "name": "Salaman Agro Website",
                 "url" : "https://salamanagro.com.my/",
