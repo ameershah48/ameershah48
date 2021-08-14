@@ -7,7 +7,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ameershah48&show_icons=true&theme=dracula)
+![github stats](https://github-readme-stats.vercel.app/api?username=ameershah48&show_icons=true&theme=dracula&hide=issue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameershah48&langs_count=8&layout=compact)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
