@@ -1,4 +1,4 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=ameershah48&show_icons=true&theme=dracula&hide=issues)
+![github stats](https://github-readme-stats.vercel.app/api?username=ameershah48&show_icons=true&theme=tokyonight&hide=issues)
 \
 \
 [![Instagram Badge](https://img.shields.io/badge/-ameershah48-D5416E?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ameershah48)](https://instagram.com/ameershah48) 
@@ -10,6 +10,6 @@
 
 -  **Technology Stack :** TALL :zap:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameershah48&langs_count=8&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameershah48&langs_count=8&layout=compact&theme=tokyonight)
 
 
