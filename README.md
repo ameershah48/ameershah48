@@ -1,3 +1,6 @@
+<a href="https://app.daily.dev/ameershah48"><img src="https://api.daily.dev/devcards/11780f8e04864cb5a93996decc77664e.png?r=s9w" width="400" alt="Ameer Shah's Dev Card"/></a>
+\
+\
 ![github stats](https://github-readme-stats.vercel.app/api?username=ameershah48&show_icons=true&theme=dracula&hide=issues&hide_border=true)
 \
 \
